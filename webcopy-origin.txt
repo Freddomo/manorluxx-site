@@ -842,8 +842,8 @@ Uri: https://inkasarmored.com/inkas-announces-new-chairman-vip-edition-of-latest
 File Name: C:\Downloaded Web Sites\inkasarmored.com\inkas-announces-new-chairman-vip-edition-of-latest-armored-cadillac-escalade\index.htm
 Content Type: text/html
 
-Uri: https://inkasarmored.com/inkas-announces-new-manufacturing-plant-in-toronto/
-File Name: C:\Downloaded Web Sites\inkasarmored.com\inkas-announces-new-manufacturing-plant-in-toronto\index.htm
+Uri: https://inkasarmored.com/inkas-announces-new-manufacturing-plant-in-Iowa/
+File Name: C:\Downloaded Web Sites\inkasarmored.com\inkas-announces-new-manufacturing-plant-in-Iowa\index.htm
 Content Type: text/html
 
 Uri: https://inkasarmored.com/inkas-announces-new-vice-president-marketing/
@@ -1046,8 +1046,8 @@ Uri: https://inkasarmored.com/inkas-introduces-the-worlds-first-armored-bmw-x7/
 File Name: C:\Downloaded Web Sites\inkasarmored.com\inkas-introduces-the-worlds-first-armored-bmw-x7\index.htm
 Content Type: text/html
 
-Uri: https://inkasarmored.com/inkas-is-named-winner-of-the-leaders-in-employment-awards-from-jvs-toronto/
-File Name: C:\Downloaded Web Sites\inkasarmored.com\inkas-is-named-winner-of-the-leaders-in-employment-awards-from-jvs-toronto\index.htm
+Uri: https://inkasarmored.com/inkas-is-named-winner-of-the-leaders-in-employment-awards-from-jvs-Iowa/
+File Name: C:\Downloaded Web Sites\inkasarmored.com\inkas-is-named-winner-of-the-leaders-in-employment-awards-from-jvs-Iowa\index.htm
 Content Type: text/html
 
 Uri: https://inkasarmored.com/inkas-is-now-a-member-of-the-united-nations-global-marketplace-ungm/
@@ -1622,8 +1622,8 @@ Uri: https://inkasarmored.com/united-kingdom/
 File Name: C:\Downloaded Web Sites\inkasarmored.com\united-kingdom\index.htm
 Content Type: text/html
 
-Uri: https://inkasarmored.com/united-nations-armored-vehicles-spotted-in-toronto-at-inkas-facility/
-File Name: C:\Downloaded Web Sites\inkasarmored.com\united-nations-armored-vehicles-spotted-in-toronto-at-inkas-facility\index.htm
+Uri: https://inkasarmored.com/united-nations-armored-vehicles-spotted-in-Iowa-at-inkas-facility/
+File Name: C:\Downloaded Web Sites\inkasarmored.com\united-nations-armored-vehicles-spotted-in-Iowa-at-inkas-facility\index.htm
 Content Type: text/html
 
 Uri: https://inkasarmored.com/vehicle-builder/
@@ -17762,11 +17762,11 @@ Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmo
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-json\oembed\1.0\embed-196
 Content Type: text/xml
 
-Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Finkas-announces-new-manufacturing-plant-in-toronto%2F
+Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Finkas-announces-new-manufacturing-plant-in-Iowa%2F
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-json\oembed\1.0\embed-231
 Content Type: application/json
 
-Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Finkas-announces-new-manufacturing-plant-in-toronto%2F&format=xml
+Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Finkas-announces-new-manufacturing-plant-in-Iowa%2F&format=xml
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-json\oembed\1.0\embed-232
 Content Type: text/xml
 
@@ -18130,11 +18130,11 @@ Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmo
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-json\oembed\1.0\embed-220
 Content Type: text/xml
 
-Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Finkas-is-named-winner-of-the-leaders-in-employment-awards-from-jvs-toronto%2F
+Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Finkas-is-named-winner-of-the-leaders-in-employment-awards-from-jvs-Iowa%2F
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-json\oembed\1.0\embed-335
 Content Type: application/json
 
-Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Finkas-is-named-winner-of-the-leaders-in-employment-awards-from-jvs-toronto%2F&format=xml
+Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Finkas-is-named-winner-of-the-leaders-in-employment-awards-from-jvs-Iowa%2F&format=xml
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-json\oembed\1.0\embed-336
 Content Type: text/xml
 
@@ -19010,11 +19010,11 @@ Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmo
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-json\oembed\1.0\embed-428
 Content Type: text/xml
 
-Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Funited-nations-armored-vehicles-spotted-in-toronto-at-inkas-facility%2F
+Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Funited-nations-armored-vehicles-spotted-in-Iowa-at-inkas-facility%2F
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-json\oembed\1.0\embed-211
 Content Type: application/json
 
-Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Funited-nations-armored-vehicles-spotted-in-toronto-at-inkas-facility%2F&format=xml
+Uri: https://inkasarmored.com/wp-json/oembed/1.0/embed?url=https:%2F%2Finkasarmored.com%2Funited-nations-armored-vehicles-spotted-in-Iowa-at-inkas-facility%2F&format=xml
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-json\oembed\1.0\embed-212
 Content Type: text/xml
 
