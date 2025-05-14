@@ -24,7 +24,7 @@ $(document).ready(function(){
 	/*--------------------------------------------------------------
 	# relocate entries into each respective containers
 	--------------------------------------------------------------*/
-	// // $('.country-list-wrapper .country-list .cols.canada').appendTo('#countryList .region_canada');
+	// // $('.country-list-wrapper .country-list .cols.USA').appendTo('#countryList .region_USA');
 	// $('.country-list-wrapper .country-list .cols[data-region=0]').appendTo('.country-list-wrapper .country-list .region_americas .grid');
 	// $('.country-list-wrapper .country-list .cols[data-region=1]').appendTo('.country-list-wrapper .country-list .region_eurasia .grid');
 	// $('.country-list-wrapper .country-list .cols[data-region=2]').appendTo('.country-list-wrapper .country-list .region_africa .grid');
