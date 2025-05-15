@@ -347,9 +347,9 @@ $('.page-template-page-dealer #user-registration .ur-frontend-form .ur-form-grid
 $('.page-template-page-dealer #user-registration .ur-frontend-form .ur-form-grid .user-registration-register').appendTo('.page-template-page-dealer #user-registration .ur-frontend-form .ur-form-grid .form-additional-links');*/
 
 $('<div class="btn-container"></div>').appendTo('.page-id-89938 #lightbox .bsui form');
-// $('<a class="btn btn-framed" href="https://inkasarmored.com/client-signup/">Register</a>').appendTo('.page-id-89938 #lightbox .bsui form .btn-container');
-$('<a class="btn no-btn" href="https://inkasarmored.com/client-forgot-password/">Forgot Password</a>').appendTo('.page-id-89938 #lightbox .bsui form .btn-container');
-$('<a class="btn btn-framed align-right" href="https://inkasarmored.com/client-signup/">Register</a>').appendTo('.page-id-89938 #lightbox .bsui form .btn-container');
+// $('<a class="btn btn-framed" href="https://inkasautos.com/client-signup/">Register</a>').appendTo('.page-id-89938 #lightbox .bsui form .btn-container');
+$('<a class="btn no-btn" href="https://inkasautos.com/client-forgot-password/">Forgot Password</a>').appendTo('.page-id-89938 #lightbox .bsui form .btn-container');
+$('<a class="btn btn-framed align-right" href="https://inkasautos.com/client-signup/">Register</a>').appendTo('.page-id-89938 #lightbox .bsui form .btn-container');
 $('.page-id-89938 #lightbox .bsui form button[type="submit"]').prependTo('.page-id-89938 #lightbox .bsui form .btn-container');
 
 $('.page-id-89938 .uwp-login-form').each(function(){
