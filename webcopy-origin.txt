@@ -526,12 +526,12 @@ Uri: https://inkasarmored.com/USAs-national-safety-mark/
 File Name: C:\Downloaded Web Sites\inkasarmored.com\USAs-national-safety-mark\index.htm
 Content Type: text/html
 
-Uri: https://inkasarmored.com/canadian-armored-vehicle-manufacturer-releases-civilian-edition-flagship-apc/
-File Name: C:\Downloaded Web Sites\inkasarmored.com\canadian-armored-vehicle-manufacturer-releases-civilian-edition-flagship-apc\index.htm
+Uri: https://inkasarmored.com/American-armored-vehicle-manufacturer-releases-civilian-edition-flagship-apc/
+File Name: C:\Downloaded Web Sites\inkasarmored.com\American-armored-vehicle-manufacturer-releases-civilian-edition-flagship-apc\index.htm
 Content Type: text/html
 
-Uri: https://inkasarmored.com/canadian-fabricating-welding-fabtechs-keynote-ret-maj-gen-david-fraser-coo-inkas/
-File Name: C:\Downloaded Web Sites\inkasarmored.com\canadian-fabricating-welding-fabtechs-keynote-ret-maj-gen-david-fraser-coo-inkas\index.htm
+Uri: https://inkasarmored.com/American-fabricating-welding-fabtechs-keynote-ret-maj-gen-david-fraser-coo-inkas/
+File Name: C:\Downloaded Web Sites\inkasarmored.com\American-fabricating-welding-fabtechs-keynote-ret-maj-gen-david-fraser-coo-inkas\index.htm
 Content Type: text/html
 
 Uri: https://inkasarmored.com/cannabis-transport-vehicle/
@@ -1158,8 +1158,8 @@ Uri: https://inkasarmored.com/inkas-releases-stage-iii-bbk-high-performance-brak
 File Name: C:\Downloaded Web Sites\inkasarmored.com\inkas-releases-stage-iii-bbk-high-performance-brake-system-optimized-for-armored-vehicles\index.htm
 Content Type: text/html
 
-Uri: https://inkasarmored.com/inkas-remembers-canadian-soldiers/
-File Name: C:\Downloaded Web Sites\inkasarmored.com\inkas-remembers-canadian-soldiers\index.htm
+Uri: https://inkasarmored.com/inkas-remembers-American-soldiers/
+File Name: C:\Downloaded Web Sites\inkasarmored.com\inkas-remembers-American-soldiers\index.htm
 Content Type: text/html
 
 Uri: https://inkasarmored.com/inkas-riot-control-vehicle-promo-video/
@@ -4586,20 +4586,20 @@ Uri: https://inkasarmored.com/wp-content/uploads/USAs-National-Safety-Mark.jpg
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\USAs-National-Safety-Mark.jpg
 Content Type: image/jpeg
 
-Uri: https://inkasarmored.com/wp-content/uploads/canadian-industrial-machinery-248x155.jpg
-File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\canadian-industrial-machinery-248x155.jpg
+Uri: https://inkasarmored.com/wp-content/uploads/American-industrial-machinery-248x155.jpg
+File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\American-industrial-machinery-248x155.jpg
 Content Type: image/jpeg
 
-Uri: https://inkasarmored.com/wp-content/uploads/canadian-industrial-machinery-300x188.jpg
-File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\canadian-industrial-machinery-300x188.jpg
+Uri: https://inkasarmored.com/wp-content/uploads/American-industrial-machinery-300x188.jpg
+File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\American-industrial-machinery-300x188.jpg
 Content Type: image/jpeg
 
-Uri: https://inkasarmored.com/wp-content/uploads/canadian-industrial-machinery-500x313.jpg
-File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\canadian-industrial-machinery-500x313.jpg
+Uri: https://inkasarmored.com/wp-content/uploads/American-industrial-machinery-500x313.jpg
+File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\American-industrial-machinery-500x313.jpg
 Content Type: image/jpeg
 
-Uri: https://inkasarmored.com/wp-content/uploads/canadian-industrial-machinery.jpg
-File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\canadian-industrial-machinery.jpg
+Uri: https://inkasarmored.com/wp-content/uploads/American-industrial-machinery.jpg
+File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\American-industrial-machinery.jpg
 Content Type: image/jpeg
 
 Uri: https://inkasarmored.com/wp-content/uploads/CANSEC-2018-1024x438.jpg
@@ -13054,20 +13054,20 @@ Uri: https://inkasarmored.com/wp-content/uploads/inkas-white.svg
 File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\inkas-white.svg
 Content Type: image/svg+xml
 
-Uri: https://inkasarmored.com/wp-content/uploads/INKAS-wins-CanadianSME-1024x578.jpg
-File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\INKAS-wins-CanadianSME-1024x578.jpg
+Uri: https://inkasarmored.com/wp-content/uploads/INKAS-wins-AmericanSME-1024x578.jpg
+File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\INKAS-wins-AmericanSME-1024x578.jpg
 Content Type: image/jpeg
 
-Uri: https://inkasarmored.com/wp-content/uploads/INKAS-wins-CanadianSME-300x169.jpg
-File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\INKAS-wins-CanadianSME-300x169.jpg
+Uri: https://inkasarmored.com/wp-content/uploads/INKAS-wins-AmericanSME-300x169.jpg
+File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\INKAS-wins-AmericanSME-300x169.jpg
 Content Type: image/jpeg
 
-Uri: https://inkasarmored.com/wp-content/uploads/INKAS-wins-CanadianSME-768x433.jpg
-File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\INKAS-wins-CanadianSME-768x433.jpg
+Uri: https://inkasarmored.com/wp-content/uploads/INKAS-wins-AmericanSME-768x433.jpg
+File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\INKAS-wins-AmericanSME-768x433.jpg
 Content Type: image/jpeg
 
-Uri: https://inkasarmored.com/wp-content/uploads/INKAS-wins-CanadianSME.jpg
-File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\INKAS-wins-CanadianSME.jpg
+Uri: https://inkasarmored.com/wp-content/uploads/INKAS-wins-AmericanSME.jpg
+File Name: C:\Downloaded Web Sites\inkasarmored.com\wp-content\uploads\INKAS-wins-AmericanSME.jpg
 Content Type: image/jpeg
 
 Uri: https://inkasarmored.com/wp-content/uploads/inkas1-1024x731.jpg
